@@ -5,8 +5,8 @@
 * Initialize this repository with a README.
 * Click on "Create repository" button.
 * Copy the link of your repository.
-         * Address bar or
-		 * Look for "HTTPS clone URL" to the right side of your repository.click on the button provided next to it to copy the link to your clipboard.
+         >1. Address bar or
+		 >2. Look for "HTTPS clone URL" to the right side of your repository.click on the button provided next to it to copy the link to your clipboard.
 
 ####Computer:
 * Create a folder "datascience" on your desktop.
@@ -32,6 +32,6 @@ Type:
 * git add . -to add your file.
 * git commit -m "adding file to my repository" -to commit
 * git push origin master -to push your file.
-           * Type username
-		   * Type password-nothing is visible just enter your password.
+           >1. Type username
+		   >2. Type password-nothing is visible just enter your password.
 * You are done check github to confirm.
