@@ -32,4 +32,6 @@ pushing your file:
 3.git add . -to add your file.
 4.git commit -m "adding file to my repository" -to commit
 5.git push origin master -to push your file.
+           a.Type username
+		   b.Type password-nothing is visible just enter your password.
 6.You are done check github to confirm.
