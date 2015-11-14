@@ -1,4 +1,4 @@
-###Github:
+####Github:
 * Click on "+" ,"new repository" to create a repository.
 * Give a name to your repository-"pushingafiletogithub"
 * Give a description to your repository-optional.
@@ -8,7 +8,7 @@
          * Address bar or
 		 * Look for "HTTPS clone URL" to the right side of your repository.click on the button provided next to it to copy the link to your clipboard.
 
-##Computer:
+###Computer:
 * Create a folder "datascience" on your desktop.
 * Create a sub-folder "toolbox" in datascience folder.
 
@@ -21,7 +21,7 @@ Type:
 * git clone "https://github.com/dheerulearns/pushingafiletogithub"
 
 
-##creating a file:
+###creating a file:
 * Open notepad
 * Write whatever content you want in it.
 * file>save as-"file.md" to the cloned pushingafiletogithub folder.
