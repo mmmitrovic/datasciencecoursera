@@ -19,7 +19,7 @@ Type:
 2.pwd-to print working directory.
 3.cd desktop/datascience/toolbox-to set your working directory.
 4.git clone "https://github.com/dheerulearns/pushingafiletogithub"
-5.cd pushingafiletogithub-to change directory to new folder.
+
 
 creating a file:
 1.Open notepad
@@ -27,4 +27,9 @@ creating a file:
 3.file>save as-"file.md" to the cloned pushingafiletogithub folder.
 
 pushing your file:
-1.git init
+1.cd pushingafiletogithub-to change directory to new folder.
+2.git init- to initialize.
+3.git add . -to add your file.
+4.git commit -m "adding file to my repository" -to commit
+5.git push origin master -to push your file.
+6.You are done check github to confirm.
