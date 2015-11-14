@@ -5,9 +5,10 @@
 * Initialize this repository with a README.
 * Click on "Create repository" button.
 * Copy the link of your repository.
-         >1. Address bar or
-		 >2. Look for "HTTPS clone URL" to the right side of your repository.click on the button provided next to it to copy the link to your clipboard.
-
+<ol>
+          Address bar or
+		  Look for "HTTPS clone URL" to the right side of your repository.click on the button provided next to it to copy the link to your clipboard.
+</ol>
 ####Computer:
 * Create a folder "datascience" on your desktop.
 * Create a sub-folder "toolbox" in datascience folder.
@@ -35,4 +36,6 @@ Type:
 <ol>
            <li> Type username. </li>
 		   <li> Type password-nothing is visible just enter your password.</li>
+</ol>
+		   
 * You are done check github to confirm.
