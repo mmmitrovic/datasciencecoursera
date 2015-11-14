@@ -8,11 +8,11 @@
          * Address bar or
 		 * Look for "HTTPS clone URL" to the right side of your repository.click on the button provided next to it to copy the link to your clipboard.
 
-###Computer:
+####Computer:
 * Create a folder "datascience" on your desktop.
 * Create a sub-folder "toolbox" in datascience folder.
 
-###Gitbash:
+####Gitbash:
 cloning your repository:
 * Open gitbash from start menu.
 Type:
@@ -21,12 +21,12 @@ Type:
 * git clone "https://github.com/dheerulearns/pushingafiletogithub"
 
 
-###creating a file:
+####creating a file:
 * Open notepad
 * Write whatever content you want in it.
 * file>save as-"file.md" to the cloned pushingafiletogithub folder.
 
-###pushing your file:
+####pushing your file:
 * cd pushingafiletogithub-to change directory to new folder.
 * git init- to initialize.
 * git add . -to add your file.
