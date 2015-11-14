@@ -6,8 +6,8 @@
 * Click on "Create repository" button.
 * Copy the link of your repository.
 <ol>
-          Address bar or
-		  Look for "HTTPS clone URL" to the right side of your repository.click on the button provided next to it to copy the link to your clipboard.
+         <li> Address bar or
+		 <li> Look for "HTTPS clone URL" to the right side of your repository.click on the button provided next to it to copy the link to your clipboard.
 </ol>
 ####Computer:
 * Create a folder "datascience" on your desktop.
