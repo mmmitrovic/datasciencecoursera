@@ -13,7 +13,7 @@
 * Create a sub-folder "toolbox" in datascience folder.
 
 ####Gitbash:
-######cloning your repository:
+####cloning your repository:
 * Open gitbash from start menu.
 Type:
 * pwd-to print working directory.
